@@ -1,2 +1,0 @@
-this is info file
-for git
